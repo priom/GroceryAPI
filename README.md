@@ -1,1 +1,1 @@
-# Bookstore Node REST API
+# Grocery Products Node REST API
